@@ -1,5 +1,7 @@
 <div>
 	<h1>Hola, soy Diego López 👋</h1>
+  <img src="https://www.gruposicom.com/wp-content/uploads/2022/07/php-vigo.png">
+  <h3>Sobre mí</h3>
   	<ul>
     	<li>Desarrollador de software motivado, con experiencia en desarrollo de aplicaciones web tanto en la parte FrontEnd como BackEnd.</li> 
     	<li>Con un enfoque en la calidad del código y la arquitectura escalable, me esfuerzo por mantenerme actualizado con las últimas tecnologías en el campo del desarrollo de software.</li>
