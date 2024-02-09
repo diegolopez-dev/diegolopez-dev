@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Hola, soy Diego López 👋</h1>
+  <h1>Hola, soy Diego López 👋</h1>
   <h3>Desarrollador de Software 🖥️</h3>
   <img width="50%" height="50%" src="https://www.gruposicom.com/wp-content/uploads/2022/07/php-vigo.png">
 </div>
@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2>Contacto :mailbox_with_mail:</h2>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href=mailto["diego.teide@gmail.com"]><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
@@ -26,6 +26,7 @@
   <img src="https://skillicons.dev/icons?i=html">
   <img src="https://skillicons.dev/icons?i=css">
   <img src="https://skillicons.dev/icons?i=js">
+  <img src="https://skillicons.dev/icons?i=react">
   
   <h3>BackEnd</h3>
   <img src="https://skillicons.dev/icons?i=python">
@@ -37,4 +38,8 @@
   <h3>BBDD</h3>
   <img src="https://skillicons.dev/icons?i=mysql">
   <img src="https://skillicons.dev/icons?i=mongo">
+
+  <h3>Control de versiones</h3>
+  <img src="https://skillicons.dev/icons?i=git">
+  <img src="https://skillicons.dev/icons?i=github">
 </div>
