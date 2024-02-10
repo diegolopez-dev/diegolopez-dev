@@ -5,7 +5,7 @@
 </div>
 <div>
   <h2>Sobre mí :point_down:</h2>
-  <p>:computer: Experiencia en desarrollo de aplicaciones web tanto en la parte FrontEnd como BackEnd.</p>
+  <p>:computer: Experiencia en desarrollo de aplicaciones tanto en la parte FrontEnd como BackEnd.</p>
   <p>:mortar_board: Con una base sólida en lenguajes como HTML, CSS, JavaScript y Python estoy con ganas por sumergirme en proyectos emocionantes para expandir mis conocimientos y habilidades técnicas.</p>
   <p>:clipboard: Con un enfoque en la calidad del código y la arquitectura escalable, me esfuerzo por mantenerme actualizado con las últimas tecnologías en el campo del desarrollo de software.</p>
   <p>:octocat: Motivado por el trabajo en equipo y la colaboración. Buscando expandir mis habilidades y conocimientos.</p>
