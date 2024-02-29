@@ -3,8 +3,8 @@
   <h3>Desarrollador de Software 🖥️</h3>
   <img width="40%" src="https://www.gruposicom.com/wp-content/uploads/2022/07/php-vigo.png">
 </div>
-<div>
-  <h2 align="center">Sobre mí :point_down:</h2>
+<div align="center">
+  <h2>Sobre mí :point_down:</h2>
   <p>
       💻 Desarrollador de aplicaciones BackEnd con conocimientos en FrontEnd.</br>
       🎓 Con una base sólida en lenguajes como HTML, CSS, JavaScript y Python.</br>
