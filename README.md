@@ -1,15 +1,21 @@
 <div align="center">
   <h1>Hola, soy Diego López 👋</h1>
   <h3>Desarrollador de Software 🖥️</h3>
-  <img width="40%" src="https://www.gruposicom.com/wp-content/uploads/2022/07/php-vigo.png">
+  <img width="30%" src="https://www.gruposicom.com/wp-content/uploads/2022/07/php-vigo.png">
 </div>
 <div>
-  <h2 align="center">Sobre mí :point_down:</h2>
   <p>
       💻 Desarrollador de aplicaciones BackEnd con conocimientos en FrontEnd.</br>
       🎓 Con una base sólida en lenguajes como HTML, CSS, JavaScript y Python.</br>
       📋 Me esfuerzo por mantenerme actualizado con las últimas tecnologías en el campo del desarrollo de software.</br> 
       🏭 ¡Busco oportunidades para crecer profesionalmente y asumir nuevos desafíos !
+</p>
+</div>
+
+<div>
+  <h2 align="center">Sobre mí :point_down:</h2>
+  <p>
+Realice dos curso formativos, un grado medio de sistemas y otro grado superior de desarrollo, después he seguido formándome de forma autodidacta y realizando proyectos propios.  Apasionado por aprender y mejorar constantemente mis habilidades en programación. Me gustaría que se diera la oportunidad laboral de formar parte de un equipo para seguir creciendo de forma profesional.
 </p>
 </div>
 
