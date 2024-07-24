@@ -21,9 +21,9 @@ Realice dos curso formativos, un grado medio de sistemas y otro grado superior d
 
 <div align="center">
   <h2>Contacto :mailbox_with_mail:</h2>
-  <a target="about_blank" href=mailto:["diego@diegodev.site"]><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a target="about_blank" href="https://www.linkedin.com/in/diegodevsite/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a target="about_blank" href="https://github.com/diegolopez-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a target="_blank" href=mailto:["diego@diegodev.site"]><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/diegodevsite/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a target="_blank" href="https://github.com/diegolopez-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 <div align="center">
