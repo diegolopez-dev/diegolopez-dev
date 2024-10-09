@@ -40,9 +40,9 @@ Realice dos curso formativos, un grado medio de sistemas y otro grado superior d
   <img alt="fastapi" title="fastapi" src="https://skillicons.dev/icons?i=fastapi">
   <img alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs">
   <img alt="express" title="express" src="https://skillicons.dev/icons?i=express">
-  <img alt="express" title="express" src="https://skillicons.dev/icons?i=java">
-  <img alt="express" title="express" src="https://skillicons.dev/icons?i=spring">
-  <img alt="express" title="express" src="https://skillicons.dev/icons?i=maven">
+  <img alt="java" title="java" src="https://skillicons.dev/icons?i=java">
+  <img alt="spring" title="spring" src="https://skillicons.dev/icons?i=spring">
+  <img alt="maven" title="maven" src="https://skillicons.dev/icons?i=maven">
 
   <h3>BBDD</h3>
   <img alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql">
