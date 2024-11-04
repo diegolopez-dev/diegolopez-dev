@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hola, soy Diego López 👋</h1>
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Desarrollador+de+Software++;Backend+Developer;&font=Fira%20Code&color=E1E185&center=true&width=440&height=45&size=22"">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Desarrollador+de+Software++;Backend+Developer;&font=Fira%20Code&color=E1E185&center=true&width=440&height=45&size=22">
   </p>
   <img width="30%" src="https://www.gruposicom.com/wp-content/uploads/2022/07/php-vigo.png">
 </div>
