@@ -8,7 +8,7 @@
 <div>
   <p>
       💻 Desarrollador de aplicaciones BackEnd con conocimientos en FrontEnd.</br>
-      🎓 Con una base sólida en lenguajes como HTML, CSS, JavaScript y Python.</br>
+      🎓 Con una base sólida en lenguajes como HTML, CSS, JavaScript, Python y Java.</br>
       📋 Me esfuerzo por mantenerme actualizado con las últimas tecnologías en el campo del desarrollo de software.</br> 
       🏭 ¡Busco oportunidades para crecer profesionalmente y asumir nuevos desafíos !
 </p>
