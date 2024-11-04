@@ -17,7 +17,7 @@
 <div>
   <h2 align="center">Sobre mí :point_down:</h2>
   <p>
-Realice dos curso formativos, un grado medio de sistemas y otro grado superior de desarrollo, después he seguido formándome de forma autodidacta y realizando proyectos propios.  Apasionado por aprender y mejorar constantemente mis habilidades en programación. Me gustaría que se diera la oportunidad laboral de formar parte de un equipo para seguir creciendo de forma profesional.
+Realice dos curso formativos, un grado medio de sistemas y otro grado superior de desarrollo, después he seguido formándome de forma autodidacta y realizando proyectos propios. Con ganas de seguir aprendiendo y mejorar constantemente mis habilidades en programación. Me gustaría que se diera la oportunidad laboral de formar parte de un equipo para seguir creciendo de forma profesional.
 </p>
 </div>
 
